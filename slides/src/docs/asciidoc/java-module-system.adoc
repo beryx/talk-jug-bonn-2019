@@ -548,6 +548,7 @@ test {
 |===
 
 
+////
 == Modular JARs compatible with Java 8 (or earlier)
 // [size150]#*The standard approach*#
 
@@ -579,6 +580,7 @@ image::gradle.png[width=96,role="headimg"]
 ----
 include::{basedir}/prj-4/build.modularity.gradle[indent=0]
 ----
+////
 
 ////
 == Modular JARs compatible with Java 8 (or earlier)
