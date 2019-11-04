@@ -817,7 +817,7 @@ image::gradle.png[width=96,role="headimg"]
 [source,linenums size100 hlight4 hlight13 hlight14 hlight15 hlight16 hlight17 hlight18 hlight19 hlight20 hlight21 hlight22 hlight23 ]
 .build.gradle for the "badass" approach
 ----
-include::{basedir}/prj-6/build.jlink.gradle[indent=0]
+include::{basedir}/prj-6/build.gradle[indent=0]
 ----
 
 ////
